@@ -1,43 +1,26 @@
 ---
 templateKey: index-page
-title: Utrolig bra agn til teiner i nærheten av deg
+title: Øk fangsten med Soft Bait fra teineagn.no
 image: /img/home-jumbotron.jpg
-heading: Utrolig bra agn til teiner i nærheten av deg
-subheading: Masse hummer og fisk
+heading: Øk fangsten med Soft Bait
+subheading: Unngå slimål og lus i reketeinene
 mainpitch:
-  title: Why Kaldi
+  title: Om teineagn.no
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Teineagn.no har utviklet et helt nytt agn som øker fangsten for hver teine. Vårt første produkt heter Soft Bait, et mykt agn som fungerer utmerket til teinefiske etter reker, hummer og sjøkreps. Bruker du Soft Bait slipper du også lus og slimål i teina.
 description: >-
-  Teineagn really is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Soft Bait er et resultat av 1,5 års forskning på dypvannsreker, både i kontrollerte forhold på land og i fiske. Vi har testet utallige ingredienser og studert rekenes oppførsel når de får kontakt med agnet. Agnet har også blitt testet grundig i fiske mot andre typer agn som pellets og sild. I hver eneste test vi har gjennomført kommer Soft Bait ut som den klare vinneren.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Du kan kjøpe Soft Bait hos Frøystad som sender over hele landet. 
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Soft Bait produseres i esker på 8kg og er en ferskvare som fryses etter produksjon for å bevare holdbarheten.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        I tillegg til å være det beste valget for teinefiske etter reker kan du også bruke Soft Bait når du fisker hummer og sjøkreps. 
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
