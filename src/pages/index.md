@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Øk fangsten med Soft Bait fra teineagn.no
-image: /img/preview.jpg
+image: /img/preview.png
 heading: Øk fangsten med Soft Bait
 subheading: Unngå slimål og lus i reketeinene
 mainpitch:
