@@ -15,13 +15,13 @@ intro:
     - image: /img/coffee.png
       text: >
         Du kan kjøpe Soft Bait hos Frøystad som sender over hele landet.
-    - image: /img/coffee-gear.png
+    - image: /img/sb.jpg
       text: >
         Soft Bait produseres i esker på 8kg og er en ferskvare som fryses etter produksjon for å bevare holdbarheten.
-    - image: /img/tutorials.png
+    - image: /img/kast.jpg
       text: >
         I tillegg til å være det beste valget for teinefiske etter reker kan du også bruke Soft Bait når du fisker hummer og sjøkreps.
-    - image: /img/meeting-space.png
+    - image: /img/reker.jpg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
