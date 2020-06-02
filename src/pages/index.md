@@ -12,9 +12,9 @@ description: >-
   Soft Bait er et resultat av 1,5 års forskning på dypvannsreker, både i kontrollerte forhold på land og i fiske. Vi har testet utallige ingredienser og studert rekenes oppførsel når de får kontakt med agnet. Agnet har også blitt testet grundig i fiske mot andre typer agn som pellets og sild. I hver eneste test vi har gjennomført kommer Soft Bait ut som den klare vinneren.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/froystad.png
       text: >
-        Du kan kjøpe Soft Bait hos Frøystad som sender over hele landet.
+        Du kan kjøpe Soft Bait hos Frøystad som sender over hele landet. Utsendelse skjer hver mandag og tirsdag.
     - image: /img/sb.jpg
       text: >
         Soft Bait produseres i esker på 8kg og er en ferskvare som fryses etter produksjon for å bevare holdbarheten.
@@ -23,11 +23,7 @@ intro:
         I tillegg til å være det beste valget for teinefiske etter reker kan du også bruke Soft Bait når du fisker hummer og sjøkreps.
     - image: /img/reker.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Opplev forskjellen du også. Prøv Soft Bait i dag.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
