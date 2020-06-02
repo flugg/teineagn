@@ -74,6 +74,19 @@ $black: #2b2523
 .navbar-item .icon
   color: $primary
 // Override for use of svg's from https://simpleicons.org/
+.navbar
+  height: 120px
+  @media (max-width: 960px)
+    height: 80px
+.navbar-brand
+  margin: 0 auto !important
+.navbar-item img
+  max-height: 50px !important
+  @media (max-width: 960px)
+    max-height: 30px !important
+.navbar > .container
+  display: flex !important
+  height: 100% !important
 .icon svg
   width: 1.5rem
   height: 1.5rem
