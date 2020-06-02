@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Teineagn',
-    description: 'Teineagn er et agn.',
+    description: 'Øk fangsten med Soft Bait fra teineagn.no',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
