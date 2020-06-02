@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Øk fangsten med Soft Bait
 subheading: Unngå slimål og lus i reketeinene
 mainpitch:
-  title: Om teineagn.no
+  title: Om Oss
   description: >
     Teineagn.no har utviklet et helt nytt agn som øker fangsten for hver teine. Vårt første produkt heter Soft Bait, et mykt agn som fungerer utmerket til teinefiske etter reker, hummer og sjøkreps. Bruker du Soft Bait slipper du også lus og slimål i teina.
 description: >-
@@ -14,13 +14,13 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        Du kan kjøpe Soft Bait hos Frøystad som sender over hele landet. 
+        Du kan kjøpe Soft Bait hos Frøystad som sender over hele landet.
     - image: /img/coffee-gear.png
       text: >
         Soft Bait produseres i esker på 8kg og er en ferskvare som fryses etter produksjon for å bevare holdbarheten.
     - image: /img/tutorials.png
       text: >
-        I tillegg til å være det beste valget for teinefiske etter reker kan du også bruke Soft Bait når du fisker hummer og sjøkreps. 
+        I tillegg til å være det beste valget for teinefiske etter reker kan du også bruke Soft Bait når du fisker hummer og sjøkreps.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
