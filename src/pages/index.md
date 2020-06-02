@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Øk fangsten med Soft Bait fra teineagn.no
-image: /img/home-jumbotron.jpg
+image: /img/preview.jpg
 heading: Øk fangsten med Soft Bait
 subheading: Unngå slimål og lus i reketeinene
 mainpitch:
@@ -14,7 +14,7 @@ intro:
   blurbs:
     - image: /img/froystad.png
       text: >
-        Du kan kjøpe Soft Bait hos Frøystad som sender over hele landet. Utsendelse skjer hver mandag og tirsdag.
+        Du kan kjøpe Soft Bait hos [Frøystad](https://froystad.no/products/soft-bait-teineagn-8-kg) som sender over hele landet. Utsendelse skjer hver mandag og tirsdag.
     - image: /img/sb.jpg
       text: >
         Soft Bait produseres i esker på 8kg og er en ferskvare som fryses etter produksjon for å bevare holdbarheten.
