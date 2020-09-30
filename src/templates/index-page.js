@@ -1,10 +1,8 @@
-import React from 'react';
+import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Link, graphql } from 'gatsby';
-
-import Layout from '../components/Layout';
+import React from 'react';
 import Features from '../components/Features';
-import BlogRoll from '../components/BlogRoll';
+import Layout from '../components/Layout';
 
 export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch, description, intro }) => (
   <div>
@@ -61,6 +59,15 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
                 </div>
+                <div class="videoWrapper">
+                  <iframe
+                    width="560"
+                    height="349"
+                    src="http://www.youtube.com/embed/fq0UwQPr1Lg?rel=0&hd=1"
+                    frameborder="0"
+                    allowfullscreen
+                  ></iframe>
+                </div>
                 <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
@@ -86,6 +93,7 @@ export const IndexPageTemplate = ({ image, title, heading, subheading, mainpitch
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  video: PropTypes.string,
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
@@ -103,6 +111,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
+        video={frontmatter.video}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
@@ -153,6 +162,7 @@ export const pageQuery = graphql`
               }
             }
             text
+            link
           }
           heading
           description
