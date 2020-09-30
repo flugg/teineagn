@@ -13,11 +13,11 @@ description: >-
 intro:
   blurbs:
     - image: /img/froystad.png
-      link: https://froystad.no
+      link: https://froystad.no/products/soft-bait-teineagn-5-kg
       text: >
         Du kan kjøpe Soft Bait hos en av våre samarbeidspartnere. Klikk på logoen for å gå til Føystad's nettsider.
     - image: /img/ok-marine.png
-      link: https://www.okmarine.no/
+      link: https://webshop.okmarine.no/agn-soft-bait
       text: >
         Du kan kjøpe Soft Bait hos en av våre samarbeidspartnere. Klikk på logoen for å gå til OK Marine's nettsider.
     - image: /img/sb.jpg
