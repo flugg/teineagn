@@ -17,7 +17,7 @@ intro:
         Du kan kjøpe Soft Bait hos Frøystad som sender over hele landet. Utsendelse skjer hver mandag og tirsdag.
     - image: /img/sb.jpg
       text: >
-        Soft Bait produseres i esker på 8kg og er en ferskvare som fryses etter produksjon for å bevare holdbarheten.
+        Soft Bait produseres i esker på 5kg og er en ferskvare som fryses etter produksjon for å bevare holdbarheten. Oppbevares fryst inntil bruk.
     - image: /img/kast.jpg
       text: >
         I tillegg til å være det beste valget for teinefiske etter reker kan du også bruke Soft Bait når du fisker hummer og sjøkreps.
