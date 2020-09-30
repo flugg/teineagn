@@ -23,7 +23,7 @@ intro:
     - image: /img/sb.jpg
       link:
       text: >
-        Soft Bait produseres i esker på 8kg og er en ferskvare som fryses etter produksjon for å bevare holdbarheten.
+        Soft Bait produseres i esker på 5kg og er en ferskvare som fryses etter produksjon for å bevare holdbarheten. Oppbevares fryst inntil bruk.
     - image: /img/kast.jpg
       link:
       text: >
